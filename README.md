@@ -23,15 +23,15 @@ To get started with Prompt Battle, follow these steps:
 Register new users with a simple JSON payload.
 Use the User_Register endpoint for user registration.
 
-2. User Login
+2. User Login:
 Log in with registered credentials and receive an access token.
 Utilize the User_Login endpoint for user login.
 
-3. Image Generation
+3. Image Generation:
 Generate images and receive URLs for the created images.
 Use the Image_Generation endpoint for image generation.
 
-4. Image Submission
+4. Image Submission:
 Submit generated images to the system.
 Utilize the Image_Submit endpoint for image submission.
 5. Get Images
@@ -40,7 +40,8 @@ Use the Get_Images endpoint for fetching user-generated images.
 6. Poll Vote
 Participate in polls using the Poll_Vote endpoint.
 Submit a POST request to cast your vote.
-7. Leaderboard
+
+7. Leaderboard:
 View real-time rankings based on user activity.
 Utilize the Get_Leaderboard endpoint for fetching leaderboard data.
 
